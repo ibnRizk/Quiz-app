@@ -1,16 +1,28 @@
-# qeustion_app
+# Quiz App 🧠
 
-A new Flutter project.
+Quiz App is an interactive and engaging application built using Flutter, designed to test your knowledge through a series of questions. Answer true or false to see if you're correct!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📋 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Multiple questions with true/false answers.
+- Instant feedback for correct and incorrect answers.
+- Visual indicators for progress and results.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Technologies Used
+
+- Flutter: A modern UI toolkit for creating natively compiled applications.
+- Dart: The programming language powering Flutter development.
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to set up and run the project locally:
+
+1. Clone the repository:
+   `bash
+   git clone  https://github.com/ibnRizk/Quiz-app
